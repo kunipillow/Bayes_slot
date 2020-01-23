@@ -1,2 +1,2 @@
 # Bayes_slot
-study Bayes estimation
+study about Bayes estimation
